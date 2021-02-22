@@ -20,14 +20,11 @@ img {
 }
 
 ul, li {
-    text-align: center;
+    font: 16px cursive;
 }
 
 p {
     font: italic 1.2em "Fira Sans", serif;
 }
 
-html, {
-    background-color:  #e0ffff;
-}
   
