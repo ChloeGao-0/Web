@@ -3,7 +3,7 @@
 <!HW05 -- Stuylin'>
 <!2021-02-10> 
 
-html {
+body {
     background-color: #e0ffff;
 }
 
@@ -18,7 +18,7 @@ img {
     margin: 0 auto;
 }
 
-li {
+ul, li {
     text-align: center;
 }
 
