@@ -3,9 +3,6 @@
 <!HW05 -- Stuylin'>
 <!2021-02-10> 
 
-body {
-    background-color: #e0ffff;
-}
 
 h1 {
     text-align: center;
@@ -25,3 +22,8 @@ ul, li {
 p {
     font: italic 1.2em "Fira Sans", serif;
 }
+
+html, body {
+    background-color:  #e0ffff;
+}
+  
