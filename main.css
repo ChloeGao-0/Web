@@ -12,6 +12,10 @@ h1 {
     font: bold 36px cursive;
 }
 
+imd src {
+    text-align: center;
+}
+
 p {
     font: italic 1.2em "Fira Sans", serif;
 }
