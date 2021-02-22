@@ -3,16 +3,20 @@
 <!HW05 -- Stuylin'>
 <!2021-02-10> 
 
-body {
+html {
     background-color: blue;
 }
 
 h1 {
     text-align: center;
-    font: bold 32px cursive;
+    font: bold 34px cursive;
 }
 
 imd src {
+    text-align: center;
+}
+
+li {
     text-align: center;
 }
 
