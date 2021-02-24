@@ -17,7 +17,7 @@ img {
     width: 50em;              /*This will make the image */
     display: block;           /**/
     margin: 0 auto;
-    border: thick double 
+    border: 5px double #1A54AA
 }
 
 ul, li {
