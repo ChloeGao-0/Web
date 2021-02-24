@@ -4,19 +4,20 @@
 /*2021-02-10*/
 
   
-html {
+html {                         /* This will make the background color a light shade of blue*/
     background-color:  #e0ffff;
 }
 
-h1 {
-    text-align: center;
-    font: bold 36px cursive;
+h1 {                      
+    text-align: center;       /* This will make h1 in the center*/ 
+    font: bold 36px cursive;  /* and make the font weight bold and the font size 36px and the font family cursive.*/
 }
 
 img {
-    width: 50em;
-    display: block;
+    width: 50em;              /*This will make the image */
+    display: block;           /**/
     margin: 0 auto;
+    border: thick double 
 }
 
 ul, li {
