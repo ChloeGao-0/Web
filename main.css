@@ -14,16 +14,16 @@ h1 {
 }
 
 img {
-    width: 50em;              /*This will make the image */
-    display: block;           /**/
-    margin: 0 auto;
-    border: 5px double #1A54AA
+    width: 50em;              /*This will make the image a width of 50em */
+    display: block;           /*The display will be a block */
+    margin: 0 auto;            /* The margin will have a top and bottom side of 0 and the left and right size of the image with be evenly divided.*/
+    border: 5px double #1A54AA   /* The border will have a width of 5px and a style of double and be a dark color*/
 }
 
 ul, li {
-    font: 16px courier;
+    font: 16px courier;        /* This will have ul and li have a font size of 16px and a font family of courier*/
 }
 
 p {
-    font: italic 1.2em "Fira Sans", serif;
+    font: italic 1.2em "Fira Sans", serif;  /*This will have p have a font style have italic and a font size 1.3em and a font style is serif*/
 }
